@@ -45,6 +45,46 @@ const Projects = () => {
             </h1>
           </header>
           <ul className="list-non-bullet">
+          <li>
+                <article className="section ow showcase-list container container-center">
+                 <h1>
+                   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/1280px-Arrow_east.svg.png" alt="" className="arrow"/>  Mobile-TodoApp</h1>
+                 <small>March, 2021</small>
+                 <p>This is a React <strong>Mobile-TodoApp</strong> that I've made using some <strong>npm dependencies</strong> like <strong>Reactstrap, bootstrap, React-icons, uuid,</strong> and some CSS. I implemented this on <strong>VS code</strong> and then host the same on <strong>codesandbox.io</strong> so that all of you can have a look at this.</p>
+     
+                 <a class="link link-primary" href="https://gqsop.csb.app/">Live Project</a>
+                 <a class="link link-secondary" href="https://github.com/manishk-99/ReducerTodo">View Source</a>
+                </article>
+             </li>
+             <br/>
+             <li>
+              <article className="section showcase-list container container-center">
+                <h1>
+                  <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/1280px-Arrow_east.svg.png"
+                    alt=""
+                    className="arrow"
+                  />{" "}
+                  ReactClonePortfolio
+                </h1>
+                <small>February, 2021</small>
+                <p>
+                  This is the <strong>React clone</strong> of my{" "}
+                  <strong>Portfolio.</strong>
+                </p>
+
+                <a className="link link-primary" href="https://dz6om.csb.app/">
+                  Live Project
+                </a>
+                <a
+                  className="link link-secondary"
+                  href="https://github.com/manishk-99/ReactClonePortfolio"
+                >
+                  View Source
+                </a>
+              </article>
+            </li>
+            <br />
             <li>
               <article className="section ow showcase-list container container-center">
                 <h1>
