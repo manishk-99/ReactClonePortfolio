@@ -46,6 +46,18 @@ const Projects = () => {
           </header>
           <ul className="list-non-bullet">
           <li>
+                <article class="section showcase-list container container-center">
+                 <h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/1280px-Arrow_east.svg.png" alt="" class="arrow"/>  localStorageTODO</h1>
+                 <small>March, 2021</small>
+                 <p>This is a React <strong>LocalStorage-TodoApp</strong> that I've made using some <strong>npm dependencies</strong> like <strong>Reactstrap, bootstrap, React-icons, uuid,</strong> and some CSS. I implemented this on <strong>codesandbox.io</strong>.</p>
+     
+     
+                 <a class="link link-primary" href="https://codesandbox.io/s/github/manishk-99/useEffectTodo">Live Project</a>
+                 <a class="link link-secondary" href="https://github.com/manishk-99/useEffectTodo">View Source</a>
+                </article>
+             </li>
+             <br/>
+          <li>
                 <article className="section ow showcase-list container container-center">
                  <h1>
                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/1280px-Arrow_east.svg.png" alt="" className="arrow"/>  Mobile-TodoApp</h1>
