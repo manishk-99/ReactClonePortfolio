@@ -52,7 +52,7 @@ const Projects = () => {
                  <p>This is a React <strong>LocalStorage-TodoApp</strong> that I've made using some <strong>npm dependencies</strong> like <strong>Reactstrap, bootstrap, React-icons, uuid,</strong> and some CSS. I implemented this on <strong>codesandbox.io</strong>.</p>
      
      
-                 <a class="link link-primary" href="https://codesandbox.io/s/github/manishk-99/useEffectTodo">Live Project</a>
+                 <a class="link link-primary" href="https://xon5t.csb.app/">Live Project</a>
                  <a class="link link-secondary" href="https://github.com/manishk-99/useEffectTodo">View Source</a>
                 </article>
              </li>
