@@ -46,6 +46,18 @@ const Projects = () => {
           </header>
           <ul className="list-non-bullet">
           <li>
+                <article class="section showcase-list container container-center">
+                 <h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/1280px-Arrow_east.svg.png" alt="" class="arrow"/>  EcommerceWebsite-Demo </h1>
+                 <small>March, 2021</small>
+                 <p>This is a React <strong>EcommerceWebsite-Demo</strong> that I've created using some <strong>npm dependencies</strong> like <strong>Reactstrap, bootstrap, React-icons, React-toastify, faker for generating random data, and npm package axios for fetching API. Here, I created 2 url's. One is localurl i.e incase the PEXELS url doesnot work and the other one is PEXELS real API url. </strong> and some CSS. I implemented this on <strong>codesandbox.io</strong>.</p>
+     
+     
+                 <a class="link link-primary" href="https://04t4d.csb.app/">Live Project</a>
+                 <a class="link link-secondary" href="https://github.com/manishk-99/EcommerceWebsite-Demo">View Source</a>
+                </article>
+             </li>
+             <br/>
+          <li>
                 <article class="section ow showcase-list container container-center">
                  <h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/1280px-Arrow_east.svg.png" alt="" class="arrow"/>  RandomUserApp</h1>
                  <small>March, 2021</small>
