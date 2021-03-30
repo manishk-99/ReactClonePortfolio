@@ -46,6 +46,17 @@ const Projects = () => {
           </header>
           <ul className="list-non-bullet">
           <li>
+                <article class="section ow showcase-list container container-center">
+                 <h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/1280px-Arrow_east.svg.png" alt="" class="arrow"/>  FireGitHubBase</h1>
+                 <small>March, 2021</small>
+                 <p>Here, I created a <strong>User Authentication login portal comprising of a sign-up, sign-in and a logout</strong> functionality page with <strong>firebase</strong> using react.js and once the user is logged in, there I designed a simple <strong>GitHub Requestor</strong> using GitHub API which shows the user data and his/her repositories.</p>
+     
+                 <a class="link link-primary" href="https://tmx1k.csb.app/Signin">Live Project</a>
+                 <a class="link link-secondary" href="https://github.com/manishk-99/FireGitHubBase">View Source</a>
+                </article>
+             </li>
+             <br/>
+          <li>
                 <article class="section showcase-list container container-center">
                  <h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/1280px-Arrow_east.svg.png" alt="" class="arrow"/>  EcommerceWebsite-Demo </h1>
                  <small>March, 2021</small>
